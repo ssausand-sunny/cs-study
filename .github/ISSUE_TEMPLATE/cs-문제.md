@@ -1,6 +1,6 @@
 ---
 name: CS 문제
-about: CS 문제를 올려주세
+about: CS 문제를 올려주세요
 title: ''
 labels: ''
 assignees: ''
